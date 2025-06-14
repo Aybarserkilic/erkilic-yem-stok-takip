@@ -23,9 +23,6 @@ Firma sahibi, mağazada olup bitenleri ve stok-satış süreçlerini anlık taki
 - Silinen müşteri/ürün loglarının tutulması
 - Kullanıcı dostu, güvenli ve modern web arayüzü (Streamlit ile)
 
-## Veritabanı Şeması
-![ER Diyagramı](EKLER/er_diyagrami.png)
-> **Not:** ER diyagramı ve mantıksal şema dosyası “EKLER” klasöründe yer almaktadır.
 
 ## Kurulum ve Kullanım
 1. SQL Server (Express veya üstü) ve SSMS kurulu olmalıdır.
@@ -50,9 +47,9 @@ Firma sahibi, mağazada olup bitenleri ve stok-satış süreçlerini anlık taki
 ## Ekran Görüntüleri
 EKLER klasöründe örnek arayüz ve tablo ekran görüntüleri yer almaktadır.
 
-## Video Sunumu
-> [Proje Tanıtım Videosu (YouTube Linki)](https://www.youtube.com/…)  
-(Eğer isterseniz buraya kendi YouTube linkinizi ekleyin.)
+## Video Sunum]
+(https://youtu.be/dkVdCx-4zcQ) 
+
 
 ## Katkı ve Lisans
 Proje, BTS304 dersi için hazırlanmıştır ve eğitim amaçlıdır.  
